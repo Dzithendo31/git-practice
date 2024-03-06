@@ -1,0 +1,23 @@
+Global web icon
+TortoiseSVN
+https://tortoisesvn.net
+Home · TortoiseSVN
+WebDec 10, 2012 · TortoiseSVN is a free and easy-to-use tool to manage Subversion repositories on Windows. Learn how to download, install, integrate and use TortoiseSVN …
+
+Downloads
+Context menu in file-open/save dialogs on x64 OS. On x64 ver…
+
+About
+TortoiseSVN is a really easy to use Revision control / version c…
+
+Translations
+Translations - Home · TortoiseSVN
+
+Support/Docs
+Support/Docs - Home · TortoiseSVN
+
+Support this project
+Support this project - Home · TortoiseSVN
+
+De
+SVNProtocolHandler Ein plugin für IE um svn:// Repositories a…
